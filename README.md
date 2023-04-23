@@ -7,3 +7,6 @@ The dataset has been ran through the model 40 times with batch size of 100 for e
 The metrics generated for the model are: 
 ```loss: 0.0024 - accuracy: 1.0000 - val_loss: 0.2683 - val_accuracy: 0.9251```
 
+### The Data
+
+
